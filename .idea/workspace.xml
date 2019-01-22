@@ -12,7 +12,17 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="88b06c42-a914-4c8b-883c-31297c62211b" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/0001-Two-Sum/cpp-0001/main2.cpp" beforeDir="false" afterPath="$PROJECT_DIR$/0001-Two-Sum/cpp-0001/main2.cpp" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/0001-Two-Sum/cpp-0001/CMakeLists.txt" beforeDir="false" afterPath="$PROJECT_DIR$/0001-Two-Sum/cpp-0001/CMakeLists.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/0001-Two-Sum/cpp-0001/cmake-build-debug/CMakeFiles/Makefile.cmake" beforeDir="false" afterPath="$PROJECT_DIR$/0001-Two-Sum/cpp-0001/cmake-build-debug/CMakeFiles/Makefile.cmake" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/0001-Two-Sum/cpp-0001/cmake-build-debug/CMakeFiles/clion-log.txt" beforeDir="false" afterPath="$PROJECT_DIR$/0001-Two-Sum/cpp-0001/cmake-build-debug/CMakeFiles/clion-log.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/0001-Two-Sum/cpp-0001/cmake-build-debug/CMakeFiles/cpp_0001.dir/DependInfo.cmake" beforeDir="false" afterPath="$PROJECT_DIR$/0001-Two-Sum/cpp-0001/cmake-build-debug/CMakeFiles/cpp_0001.dir/DependInfo.cmake" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/0001-Two-Sum/cpp-0001/cmake-build-debug/CMakeFiles/cpp_0001.dir/build.make" beforeDir="false" afterPath="$PROJECT_DIR$/0001-Two-Sum/cpp-0001/cmake-build-debug/CMakeFiles/cpp_0001.dir/build.make" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/0001-Two-Sum/cpp-0001/cmake-build-debug/CMakeFiles/cpp_0001.dir/cmake_clean.cmake" beforeDir="false" afterPath="$PROJECT_DIR$/0001-Two-Sum/cpp-0001/cmake-build-debug/CMakeFiles/cpp_0001.dir/cmake_clean.cmake" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/0001-Two-Sum/cpp-0001/cmake-build-debug/CMakeFiles/cpp_0001.dir/main2.cpp.obj" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/0001-Two-Sum/cpp-0001/cmake-build-debug/CMakeFiles/cpp_0001.dir/objects1.rsp" beforeDir="false" afterPath="$PROJECT_DIR$/0001-Two-Sum/cpp-0001/cmake-build-debug/CMakeFiles/cpp_0001.dir/objects1.rsp" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/0001-Two-Sum/cpp-0001/cmake-build-debug/Makefile" beforeDir="false" afterPath="$PROJECT_DIR$/0001-Two-Sum/cpp-0001/cmake-build-debug/Makefile" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/0001-Two-Sum/cpp-0001/cmake-build-debug/cpp_0001.cbp" beforeDir="false" afterPath="$PROJECT_DIR$/0001-Two-Sum/cpp-0001/cmake-build-debug/cpp_0001.cbp" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/0001-Two-Sum/cpp-0001/main3.cpp" beforeDir="false" afterPath="$PROJECT_DIR$/0001-Two-Sum/cpp-0001/main3.cpp" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/0001-Two-Sum/cpp-0001/cmake-build-debug/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -24,20 +34,20 @@
   <component name="ExecutionTargetManager" SELECTED_TARGET="CMakeBuildProfile:Debug" />
   <component name="FileEditorManager">
     <leaf>
-      <file pinned="false" current-in-tab="false">
+      <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/0001-Two-Sum/cpp-0001/CMakeLists.txt">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="34">
-              <caret line="2" selection-start-line="2" selection-end-line="2" />
+            <state relative-caret-position="102">
+              <caret line="6" column="40" lean-forward="true" selection-start-line="6" selection-start-column="40" selection-end-line="6" selection-end-column="40" />
             </state>
           </provider>
         </entry>
       </file>
-      <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/0001-Two-Sum/cpp-0001/main2.cpp">
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/0001-Two-Sum/cpp-0001/main3.cpp">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="393">
-              <caret line="38" column="9" lean-forward="true" selection-start-line="38" selection-start-column="9" selection-end-line="38" selection-end-column="9" />
+            <state relative-caret-position="376">
+              <caret line="24" column="49" lean-forward="true" selection-start-line="24" selection-start-column="49" selection-end-line="24" selection-end-column="49" />
               <folding>
                 <element signature="e#114#133#0" expanded="true" />
               </folding>
@@ -54,6 +64,8 @@
     <option name="CHANGED_PATHS">
       <list>
         <option value="$PROJECT_DIR$/0001-Two-Sum/cpp-0001/main2.cpp" />
+        <option value="$PROJECT_DIR$/0001-Two-Sum/cpp-0001/CMakeLists.txt" />
+        <option value="$PROJECT_DIR$/0001-Two-Sum/cpp-0001/main3.cpp" />
       </list>
     </option>
   </component>
@@ -76,6 +88,17 @@
               <item name="cpp_0001" type="b2602c69:ProjectViewProjectNode" />
               <item name="LeetCodeAnimation" type="462c0819:PsiDirectoryNode" />
             </path>
+            <path>
+              <item name="cpp_0001" type="b2602c69:ProjectViewProjectNode" />
+              <item name="LeetCodeAnimation" type="462c0819:PsiDirectoryNode" />
+              <item name="0001-Two-Sum" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="cpp_0001" type="b2602c69:ProjectViewProjectNode" />
+              <item name="LeetCodeAnimation" type="462c0819:PsiDirectoryNode" />
+              <item name="0001-Two-Sum" type="462c0819:PsiDirectoryNode" />
+              <item name="cpp-0001" type="462c0819:PsiDirectoryNode" />
+            </path>
           </expand>
           <select />
         </subPane>
@@ -84,6 +107,7 @@
   </component>
   <component name="PropertiesComponent">
     <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../mini-caffe" />
     <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
     <property name="nodejs_npm_path_reset_for_default_project" value="true" />
   </component>
@@ -116,21 +140,21 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1548139055305</updated>
-      <workItem from="1548139060090" duration="2018000" />
+      <workItem from="1548139060090" duration="3671000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="2018000" />
+    <option name="totallyTimeSpent" value="3671000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-8" y="-8" width="1936" height="1056" extended-state="6" />
     <editor active="true" />
     <layout>
       <window_info id="Favorites" side_tool="true" />
-      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.16773163" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.16773163" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
-      <window_info anchor="bottom" id="CMake" />
+      <window_info anchor="bottom" id="CMake" weight="0.32890365" />
       <window_info anchor="bottom" id="Database Changes" />
       <window_info anchor="bottom" id="Version Control" />
       <window_info anchor="bottom" id="Messages" weight="0.32890365" />
@@ -138,8 +162,8 @@
       <window_info anchor="bottom" id="Event Log" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" />
-      <window_info active="true" anchor="bottom" id="Run" order="2" visible="true" weight="0.32890365" />
-      <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
+      <window_info anchor="bottom" id="Run" order="2" visible="true" weight="0.32890365" />
+      <window_info anchor="bottom" id="Debug" order="3" weight="0.39977852" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
       <window_info anchor="bottom" id="TODO" order="6" />
@@ -152,6 +176,15 @@
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="1" />
   </component>
+  <component name="debuggerHistoryManager">
+    <expressions id="evaluateExpression">
+      <expression>
+        <expression-string>record</expression-string>
+        <language-id>ObjectiveC</language-id>
+        <evaluation-mode>EXPRESSION</evaluation-mode>
+      </expression>
+    </expressions>
+  </component>
   <component name="editorHistoryManager">
     <entry file="file://$PROJECT_DIR$/0001-Two-Sum/cpp-0001/main.cpp">
       <provider selected="true" editor-type-id="text-editor" />
@@ -163,20 +196,37 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/0001-Two-Sum/cpp-0001/CMakeLists.txt">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="34">
-          <caret line="2" selection-start-line="2" selection-end-line="2" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/0001-Two-Sum/cpp-0001/main2.cpp">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="393">
+        <state relative-caret-position="444">
           <caret line="38" column="9" lean-forward="true" selection-start-line="38" selection-start-column="9" selection-end-line="38" selection-end-column="9" />
           <folding>
             <element signature="e#114#133#0" expanded="true" />
           </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/0001-Two-Sum/java-0001/src/Solution1.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="187">
+          <caret line="11" column="13" selection-start-line="11" selection-start-column="13" selection-end-line="11" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/0001-Two-Sum/cpp-0001/main3.cpp">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="376">
+          <caret line="24" column="49" lean-forward="true" selection-start-line="24" selection-start-column="49" selection-end-line="24" selection-end-column="49" />
+          <folding>
+            <element signature="e#114#133#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/0001-Two-Sum/cpp-0001/CMakeLists.txt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="102">
+          <caret line="6" column="40" lean-forward="true" selection-start-line="6" selection-start-column="40" selection-end-line="6" selection-end-column="40" />
         </state>
       </provider>
     </entry>

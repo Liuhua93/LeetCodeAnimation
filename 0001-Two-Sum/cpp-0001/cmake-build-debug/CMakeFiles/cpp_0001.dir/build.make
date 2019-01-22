@@ -56,27 +56,27 @@ include CMakeFiles/cpp_0001.dir/progress.make
 # Include the compile flags for this target's objects.
 include CMakeFiles/cpp_0001.dir/flags.make
 
-CMakeFiles/cpp_0001.dir/main2.cpp.obj: CMakeFiles/cpp_0001.dir/flags.make
-CMakeFiles/cpp_0001.dir/main2.cpp.obj: ../main2.cpp
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=F:\LeetCodeAnimation\0001-Two-Sum\cpp-0001\cmake-build-debug\CMakeFiles --progress-num=$(CMAKE_PROGRESS_1) "Building CXX object CMakeFiles/cpp_0001.dir/main2.cpp.obj"
-	E:\mingw\bin\g++.exe  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles\cpp_0001.dir\main2.cpp.obj -c F:\LeetCodeAnimation\0001-Two-Sum\cpp-0001\main2.cpp
+CMakeFiles/cpp_0001.dir/main3.cpp.obj: CMakeFiles/cpp_0001.dir/flags.make
+CMakeFiles/cpp_0001.dir/main3.cpp.obj: ../main3.cpp
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=F:\LeetCodeAnimation\0001-Two-Sum\cpp-0001\cmake-build-debug\CMakeFiles --progress-num=$(CMAKE_PROGRESS_1) "Building CXX object CMakeFiles/cpp_0001.dir/main3.cpp.obj"
+	E:\mingw\bin\g++.exe  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles\cpp_0001.dir\main3.cpp.obj -c F:\LeetCodeAnimation\0001-Two-Sum\cpp-0001\main3.cpp
 
-CMakeFiles/cpp_0001.dir/main2.cpp.i: cmake_force
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing CXX source to CMakeFiles/cpp_0001.dir/main2.cpp.i"
-	E:\mingw\bin\g++.exe $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E F:\LeetCodeAnimation\0001-Two-Sum\cpp-0001\main2.cpp > CMakeFiles\cpp_0001.dir\main2.cpp.i
+CMakeFiles/cpp_0001.dir/main3.cpp.i: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing CXX source to CMakeFiles/cpp_0001.dir/main3.cpp.i"
+	E:\mingw\bin\g++.exe $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E F:\LeetCodeAnimation\0001-Two-Sum\cpp-0001\main3.cpp > CMakeFiles\cpp_0001.dir\main3.cpp.i
 
-CMakeFiles/cpp_0001.dir/main2.cpp.s: cmake_force
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/cpp_0001.dir/main2.cpp.s"
-	E:\mingw\bin\g++.exe $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S F:\LeetCodeAnimation\0001-Two-Sum\cpp-0001\main2.cpp -o CMakeFiles\cpp_0001.dir\main2.cpp.s
+CMakeFiles/cpp_0001.dir/main3.cpp.s: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/cpp_0001.dir/main3.cpp.s"
+	E:\mingw\bin\g++.exe $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S F:\LeetCodeAnimation\0001-Two-Sum\cpp-0001\main3.cpp -o CMakeFiles\cpp_0001.dir\main3.cpp.s
 
 # Object files for target cpp_0001
 cpp_0001_OBJECTS = \
-"CMakeFiles/cpp_0001.dir/main2.cpp.obj"
+"CMakeFiles/cpp_0001.dir/main3.cpp.obj"
 
 # External object files for target cpp_0001
 cpp_0001_EXTERNAL_OBJECTS =
 
-cpp_0001.exe: CMakeFiles/cpp_0001.dir/main2.cpp.obj
+cpp_0001.exe: CMakeFiles/cpp_0001.dir/main3.cpp.obj
 cpp_0001.exe: CMakeFiles/cpp_0001.dir/build.make
 cpp_0001.exe: CMakeFiles/cpp_0001.dir/linklibs.rsp
 cpp_0001.exe: CMakeFiles/cpp_0001.dir/objects1.rsp
