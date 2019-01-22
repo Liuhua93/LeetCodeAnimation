@@ -20,8 +20,18 @@ public:
         for(int i = 0 ; i < nums.size() ; i ++)
             record[nums[i]] = i;
 
+        for (auto& x : record) {
+            cout << x.first << ": " << x.second << endl;
+        }
+
+        //unordered_map<int,int>::iterator ii = record.find(4);
+        //cout << ii->second << endl;
+
+        cout << "record.size() is " << record.size() << endl;
+
         for(int i = 0 ; i < nums.size() ; i ++){
             unordered_map<int,int>::iterator iter = record.find(target - nums[i]);
+            cout << iter->first << endl;
             if(iter != record.end() && iter->second != i){
                 int res[] = {i, iter->second};
                 return vector<int>(res, res + 2);
@@ -43,7 +53,7 @@ int main() {
 
     const int nums[] = {0,4,3,0};
     vector<int> nums_vec( nums, nums + sizeof(nums)/sizeof(int) );
-    int target = 4;
+    int target = 3;
     printVec(Solution().twoSum(nums_vec, target));
 
     return 0;
